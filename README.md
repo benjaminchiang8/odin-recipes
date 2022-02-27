@@ -1,1 +1,2 @@
 # odin-recipe
+I started to learn a bit about github and webpages and committing. Its still confusing about all the terminal commands and how it links up to the local machine. Also I'm confused when I create a directory and pull it onto the local computer. Not sure where it is. 
